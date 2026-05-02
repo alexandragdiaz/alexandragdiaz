@@ -15,5 +15,3 @@ Apasionada por la creación de soluciones tecnológicas limpias y eficientes. Co
   <img src="https://skillicons.dev/icons?i=java,spring,js,react,mysql,php,git,html,css,vscode" />
 </p>
 
-### Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alexandragdiaz&show_icons=true&theme=radical)
