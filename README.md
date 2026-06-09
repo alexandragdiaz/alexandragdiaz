@@ -6,8 +6,8 @@
 
 Apasionada por la creación de soluciones tecnológicas limpias y eficientes. Con experiencia en el ecosistema de Java, Spring Boot y el desarrollo frontend moderno.
 
-- 🔭 Actualmente trabajando en: **Proyectos de Backend con Java**
-- 🌱 Aprendiendo profundamente: **Arquitectura de Software y Microservicios**
+- 🔭 Actualmente trabajando en: **Proyectos Frontend**
+- 🌱 Aprendiendo profundamente: **JavaScript moderno**
 - 💼 Emprendedora tecnológica en mis tiempos libres.
 
 ### Mis Tecnologías
